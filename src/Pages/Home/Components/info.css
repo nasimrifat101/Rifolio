@@ -1,0 +1,41 @@
+.mainn {
+    height: 100vh;
+  }
+  
+  .bodyy,
+  .maskk {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* color: #afa18f; */
+    font-size: 64px;
+    line-height: 80px;
+    cursor: default;
+  }
+  .spann {
+    color: #3CD7A1 ;
+  }
+  
+  .pp {
+    width: 1000px;
+    cursor: none;
+    font-weight: 900;
+  }
+  
+  .maskk {
+    position: absolute;
+    -webkit-mask-image: url("/mask.svg");
+    mask-image: url("/mask.svg");
+  
+    background: #ec4e39;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+  
+    -webkit-mask-size: 50px;
+    mask-size: 50px;
+    color: black;
+  }
+  
+  

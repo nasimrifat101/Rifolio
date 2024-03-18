@@ -1,0 +1,23 @@
+[
+  {
+      "id": 1,
+      "name": "InventiSync",
+      "link": "https://inventisync-138b8.web.app/",
+      "image": "https://i.postimg.cc/05t82r97/Frame-2-1.png",
+      "description": "A robust inventory management system tailored for businesses, featuring an intuitive dashboard for seamless product management."
+  },
+  {
+      "id": 2,
+      "name": "LuminaryLabs",
+      "link": "https://timeless-event.web.app/",
+      "image": "https://i.postimg.cc/vmw0Z1Fh/Frame-2-2.png",
+      "description": "Explore LuminaryLabs, your go-to e-commerce tech destination for purchasing smartphones and electronic devices. Experience innovation at your fingertips."
+  },
+  {
+      "id": 3,
+      "name": "BookWaves",
+      "link": "https://bookwaves-c18d0.web.app/",
+      "image": "https://i.postimg.cc/SxMZ465j/Frame-2-3.png",
+      "description": "Immerse yourself in BookWaves, an online library with a sophisticated book management system. Dive into a world of literature with ease and convenience."
+  }
+]
